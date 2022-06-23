@@ -1,1 +1,3 @@
 Hi this is contributor. And this is the first file i've made on my computer. I will push it to the repository immediately.
+
+[ In this part i am going to edit this file on contributors computer ]

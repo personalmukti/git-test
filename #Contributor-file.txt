@@ -1,3 +1,3 @@
 Hi this is contributor. And this is the first file i've made on my computer. I will push it to the repository immediately.
 
-{ This is the changed i made on master computer. And let's see which conflict happen we push it mean while the contributors is edit the same file and also push it to our repository. Let's try and make it change. }
+This is the new one.

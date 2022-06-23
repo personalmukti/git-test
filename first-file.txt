@@ -1,0 +1,3 @@
+This is the first file on this local computer.
+
+But in the next step we'll gonna push it to our github repository.
